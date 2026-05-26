@@ -1,0 +1,13 @@
+*{
+margin:0; /*margem do body zerada*/
+pedding:0; /*espaço interno do body zerado*/
+
+}
+
+.cabecalho{
+background-color: rgb(33, 212, 212);/*cor de fundo*/
+display:flex; /*disposição dos elementos flexíveis*/
+justify-content: space-between;/*justificar conteúdo c/ espaços entre*/
+align-items: center; /*alinhamento vertical dositens no centro*/
+height: 100px;/*altura da área do cabeçalho em 100 pixels*/
+}
